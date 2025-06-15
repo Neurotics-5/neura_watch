@@ -18,7 +18,7 @@ This project demonstrates how to run a WiFi-connected [micro-ROS](https://micro.
 
 ### 1. Clone This Repo
 
-```bash
+bash
 git clone <this-repo-url>
 cd <this-repo>
 
