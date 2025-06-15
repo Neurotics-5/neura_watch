@@ -8,8 +8,7 @@
 // WiFi credentials
 char ssid[] = "Sunrise_9332076";
 char password[] = "2yefsatrBppdhfeu";
-IPAddress agent_ip(192,168,1,206);
-// char agent_ip[] = "192.168.1.206"; 
+IPAddress agent_ip(000,000,0,000); 
 
 // micro-ROS
 rcl_publisher_t publisher;
