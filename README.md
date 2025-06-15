@@ -76,7 +76,7 @@ data: Hello from ESP32
 
 🔗 Resources
 
-    micro-ROS main site: https://micro.ros.org/
+micro-ROS main site: https://micro.ros.org/
     
     micro_ros_setup: https://github.com/micro-ROS/micro_ros_setup
     
