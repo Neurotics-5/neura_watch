@@ -73,31 +73,3 @@ ros2 topic echo /esp32_hello
 You should start seeing:
 
 data: Hello from ESP32
-
-📂 File Structure
-
-.
-├── src
-│   └── main.cpp         # micro-ROS publisher code
-├── platformio.ini       # PlatformIO environment config
-└── README.md
-
-🔗 Resources
-
-    micro-ROS
-
-    micro_ros_setup
-
-    micro_ros_platformio
-
-    PlatformIO
-
-🧪 Tested With
-
-    ROS 2 Humble on Ubuntu 22.04
-
-    AZ-Delivery ESP32 Dev Kit C V4
-
-    PlatformIO Core 6.x
-
-    micro-ROS Agent via udp4 transport
