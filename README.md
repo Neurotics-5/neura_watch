@@ -73,3 +73,21 @@ ros2 topic echo /esp32_hello
 You should start seeing:
 
 data: Hello from ESP32
+
+🔗 Resources
+
+    📚 micro-ROS main site: https://micro.ros.org/
+
+    🛠 micro_ros_setup: https://github.com/micro-ROS/micro_ros_setup
+
+    📦 micro_ros_platformio: https://github.com/micro-ROS/micro_ros_platformio
+
+    ⚙️ micro-ROS Agent: https://github.com/micro-ROS/micro-ROS-Agent
+
+    🧰 micro_ros_arduino: https://github.com/micro-ROS/micro_ros_arduino
+
+    🧪 ROS 2 Humble: https://docs.ros.org/en/humble/index.html
+
+    🚀 PlatformIO: https://platformio.org/
+
+    🧾 AZ-Delivery ESP32 DevKit C V4 board info: https://docs.platformio.org/en/latest/boards/espressif32/az-delivery-devkit-v4.html
