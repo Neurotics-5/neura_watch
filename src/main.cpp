@@ -6,8 +6,8 @@
 #include <std_msgs/msg/string.h>
 
 // WiFi credentials
-char ssid[] = "Sunrise_9332076";
-char password[] = "2yefsatrBppdhfeu";
+char ssid[] = "name";
+char password[] = "password";
 IPAddress agent_ip(000,000,0,000); 
 
 // micro-ROS
