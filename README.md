@@ -74,7 +74,7 @@ You should start seeing:
 
 data: Hello from ESP32
 
-🔗 Resources
+##🔗 Resources
 
 **micro-ROS main site:** https://micro.ros.org/
     
