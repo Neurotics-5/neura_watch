@@ -40,7 +40,7 @@ In src/main.cpp, update:
 
 char ssid[] = "YOUR_WIFI_SSID";
 char password[] = "YOUR_WIFI_PASSWORD";
-char agent_ip[] = "192.168.1.X";  // IP of your ROS 2 host
+char agent_ip[] = "xxx.xxx.x.xxx";  // IP of your ROS 2 host
 
 4. Build and Upload
 
