@@ -68,13 +68,20 @@ Keep this terminal open — it will display connection logs.
 Open another terminal:
 ```
 source ~/uros_ws/install/setup.bash
-ros2 topic echo /esp32_hello
-ros2 topic pub /led_cmd std_msgs/String "{data: 'on'}"
-ros2 topic pub /led_cmd std_msgs/String "{data: 'off'}"
 ```
-You should start seeing:
+```
+ros2 topic pub /warning_cmd std_msgs/String "data: 'warning'"
+```
+```
+ros2 topic pub /led_cmd std_msgs/String "data: 'on'"
+```
+```
+ros2 topic pub /led_cmd std_msgs/String "data: 'off'"
+```
+```
+ros2 topic echo /esp32_hello
+```
 
-data: Hello from ESP32
 
 ---
 
