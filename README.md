@@ -70,13 +70,13 @@ Open another terminal:
 source ~/uros_ws/install/setup.bash
 ```
 ```
-ros2 topic pub /warning_cmd std_msgs/String "data: 'warning'"
+ros2 topic pub --once /warning_cmd std_msgs/String "data: 'warning'"
 ```
 ```
-ros2 topic pub /led_cmd std_msgs/String "data: 'on'"
+ros2 topic pub --once /led_cmd std_msgs/String "data: 'on'"
 ```
 ```
-ros2 topic pub /led_cmd std_msgs/String "data: 'off'"
+ros2 topic pub --once /led_cmd std_msgs/String "data: 'off'"
 ```
 ```
 ros2 topic echo /esp32_hello
