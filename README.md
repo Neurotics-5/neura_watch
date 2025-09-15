@@ -1,3 +1,6 @@
+<img width="1600" height="1086" alt="image" src="https://github.com/user-attachments/assets/3c773c46-a658-472c-a622-6101d8618650" />
+
+
 # micro-ROS ESP32 WiFi Example (PlatformIO + ROS 2 Humble)
 
 This project demonstrates how to run a WiFi-connected [micro-ROS](https://micro.ros.org/) node on an ESP32 (e.g. AZ-Delivery DevKit C V4), publishing data to a ROS 2 Humble host.
